@@ -36,5 +36,3 @@ java TestadorCadeia
  Cadeia construída automaticamente
  Extensível para novos níveis de aprovação
  Testado e documentado
-
-*/
